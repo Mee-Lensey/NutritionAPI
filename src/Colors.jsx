@@ -20,4 +20,4 @@ const Colors= ({data})=>{
     )
 }
 
-export default Colors; // COME BACK TO EDIT THIS COLORS CLASS
+export default Colors; // COME BACK TO EDIT THIS COLORS CLASs and potentially delete it
